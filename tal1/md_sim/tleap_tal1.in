@@ -1,0 +1,6 @@
+source leaprc.gaff2
+loadamberparams tal1_resp.frcmod
+MOL = loadmol2 tal1_resp.mol2 
+check MOL
+saveoff MOL tal1_resp.lib
+quit

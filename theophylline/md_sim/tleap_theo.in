@@ -1,0 +1,6 @@
+source leaprc.gaff2
+loadamberparams theo_resp.frcmod
+MOL = loadmol2 theo_resp.mol2 
+check MOL
+saveoff MOL theo_resp.lib
+quit
