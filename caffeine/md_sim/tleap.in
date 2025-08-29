@@ -1,0 +1,11 @@
+source leaprc.RNA.Shaw
+source leaprc.gaff2
+loadamberparams caffe_resp.frcmod 
+loadoff caffe_resp.lib
+mol = loadpdb 8d28_new_prep.pdb  
+solvateBox mol TIP4PEWBOX 16
+addIonsRand mol Na+ 0
+addIonsRand mol Na+ 34
+addIonsRand mol Cl- 34
+saveamberparm mol 8d28_caff.parm7 8d28_caff.rst7
+quit
