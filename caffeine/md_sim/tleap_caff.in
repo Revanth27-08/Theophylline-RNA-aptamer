@@ -1,6 +1,0 @@
-source leaprc.gaff2
-loadamberparams caffe_resp.frcmod
-MOL = loadmol2 caffe_resp.mol2 
-check MOL
-saveoff MOL caffe_resp.lib
-quit
