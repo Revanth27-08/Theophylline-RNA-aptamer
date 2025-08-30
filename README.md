@@ -6,4 +6,4 @@ The analysis scripts were taken from the following repositories:
 
 FESTA.py: https://github.com/vi-rwth/FESTA (Valentin Istomin and GiovanniMaria Piccini)
 
-funne_FES_from_Reweighting.py: https://github.com/valeriorizzi/Deep-LDA_LigandBinding_SAMPL5/tree/correction_NL (Valerio Rizzi)
+funnel_FES_from_Reweighting.py: https://github.com/valeriorizzi/Deep-LDA_LigandBinding_SAMPL5/tree/correction_NL (Valerio Rizzi)
