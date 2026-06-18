@@ -1,6 +1,10 @@
+# Enhanced Sampling of ligand binding coupled to the RNA conformational dynamics
+
 Codes and input files for the following manuscript:
 
-Elangovan R, Ray D. Enhanced Sampling of Ligand Binding Coupled to RNA Conformational Dynamics. ChemRxiv. 2025; https://doi.org/10.26434/chemrxiv-2025-hnc4c  
+ChemRxiv: [![ChemRxiv](https://img.shields.io/badge/ChemRxiv-DOI-blue)]( https://doi.org/10.26434/chemrxiv-2025-hnc4c)
+
+![GraphicTOC](Graphic_TOC.png)
 
 The analysis scripts were taken from the following repositories:
 
