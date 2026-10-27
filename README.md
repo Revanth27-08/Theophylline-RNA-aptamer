@@ -1,6 +1,6 @@
 # Enhanced Sampling of ligand binding coupled to the RNA Base Flipping dynamics
 
-Code to reproduce the paper [Enhanced Sampling of ligand binding coupled to the RNA Base Flipping dynamics] [![PCCP](https://img.shields.io/badge/JPCB-Published-darkred)](https://doi.org/10.1039/d6cp01607c) 
+Code to reproduce the paper [Enhanced Sampling of ligand binding coupled to the RNA Base Flipping dynamics] [![PCCP](https://img.shields.io/badge/JPCB-Published-darkred)](https://doi.org/10.1021/acs.jpcb.6c05311) 
 
 ChemRxiv: [![ChemRxiv](https://img.shields.io/badge/ChemRxiv-DOI-blue)]( https://doi.org/10.26434/chemrxiv-2025-hnc4c)
 
